@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Лаб 1 Задание 2 Крупина C#\bin\Debug\net6.0\Лаб 1 Задание 2 Крупина C#.exe
+C:\Users\user\Desktop\Лаб 1 Задание 2 Крупина C#\bin\Debug\net6.0\Лаб 1 Задание 2 Крупина C#.deps.json
+C:\Users\user\Desktop\Лаб 1 Задание 2 Крупина C#\bin\Debug\net6.0\Лаб 1 Задание 2 Крупина C#.runtimeconfig.json
+C:\Users\user\Desktop\Лаб 1 Задание 2 Крупина C#\bin\Debug\net6.0\Лаб 1 Задание 2 Крупина C#.dll
+C:\Users\user\Desktop\Лаб 1 Задание 2 Крупина C#\bin\Debug\net6.0\Лаб 1 Задание 2 Крупина C#.pdb
+C:\Users\user\Desktop\Лаб 1 Задание 2 Крупина C#\obj\Debug\net6.0\Лаб 1 Задание 2 Крупина C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Лаб 1 Задание 2 Крупина C#\obj\Debug\net6.0\Лаб 1 Задание 2 Крупина C#.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Лаб 1 Задание 2 Крупина C#\obj\Debug\net6.0\Лаб 1 Задание 2 Крупина C#.AssemblyInfo.cs
+C:\Users\user\Desktop\Лаб 1 Задание 2 Крупина C#\obj\Debug\net6.0\Лаб 1 Задание 2 Крупина C#.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Лаб 1 Задание 2 Крупина C#\obj\Debug\net6.0\Лаб 1 Задание 2 Крупина C#.dll
+C:\Users\user\Desktop\Лаб 1 Задание 2 Крупина C#\obj\Debug\net6.0\refint\Лаб 1 Задание 2 Крупина C#.dll
+C:\Users\user\Desktop\Лаб 1 Задание 2 Крупина C#\obj\Debug\net6.0\Лаб 1 Задание 2 Крупина C#.pdb
+C:\Users\user\Desktop\Лаб 1 Задание 2 Крупина C#\obj\Debug\net6.0\Лаб 1 Задание 2 Крупина C#.genruntimeconfig.cache
+C:\Users\user\Desktop\Лаб 1 Задание 2 Крупина C#\obj\Debug\net6.0\ref\Лаб 1 Задание 2 Крупина C#.dll
