@@ -1,0 +1,29 @@
+H:\Остальное\РПМ\Lab7_interface1\Lab7_interface1\bin\Debug\Lab7_interface1.exe.config
+H:\Остальное\РПМ\Lab7_interface1\Lab7_interface1\bin\Debug\Lab7_interface1.exe
+H:\Остальное\РПМ\Lab7_interface1\Lab7_interface1\bin\Debug\Lab7_interface1.pdb
+H:\Остальное\РПМ\Lab7_interface1\Lab7_interface1\obj\Debug\Lab7_interface1.csproj.AssemblyReference.cache
+H:\Остальное\РПМ\Lab7_interface1\Lab7_interface1\obj\Debug\Lab7_interface1.Properties.Resources.resources
+H:\Остальное\РПМ\Lab7_interface1\Lab7_interface1\obj\Debug\Lab7_interface1.csproj.GenerateResource.cache
+H:\Остальное\РПМ\Lab7_interface1\Lab7_interface1\obj\Debug\Lab7_interface1.csproj.CoreCompileInputs.cache
+H:\Остальное\РПМ\Lab7_interface1\Lab7_interface1\obj\Debug\Lab7_interface1.exe
+H:\Остальное\РПМ\Lab7_interface1\Lab7_interface1\obj\Debug\Lab7_interface1.pdb
+H:\Остальное\РПМ\Lab7_interface2\Lab7_interface1\bin\Debug\Lab7_interface1.exe.config
+H:\Остальное\РПМ\Lab7_interface2\Lab7_interface1\bin\Debug\Lab7_interface1.exe
+H:\Остальное\РПМ\Lab7_interface2\Lab7_interface1\bin\Debug\Lab7_interface1.pdb
+H:\Остальное\РПМ\Lab7_interface2\Lab7_interface1\obj\Debug\Lab7_interface1.Form1.resources
+H:\Остальное\РПМ\Lab7_interface2\Lab7_interface1\obj\Debug\Lab7_interface1.Properties.Resources.resources
+H:\Остальное\РПМ\Lab7_interface2\Lab7_interface1\obj\Debug\Lab7_interface1.csproj.GenerateResource.cache
+H:\Остальное\РПМ\Lab7_interface2\Lab7_interface1\obj\Debug\Lab7_interface1.csproj.CoreCompileInputs.cache
+H:\Остальное\РПМ\Lab7_interface2\Lab7_interface1\obj\Debug\Lab7_interface1.exe
+H:\Остальное\РПМ\Lab7_interface2\Lab7_interface1\obj\Debug\Lab7_interface1.pdb
+H:\Остальное\РПМ\Lab7_interface2\Lab7_interface1\obj\Debug\Lab7_interface1.csprojAssemblyReference.cache
+C:\Users\user\Downloads\Telegram Desktop\колледж\колледж\РПМ\Lab7_interface2\Lab7_interface1\obj\Debug\Lab7_interface1.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\Telegram Desktop\колледж\колледж\РПМ\Lab7_interface2\Lab7_interface1\obj\Debug\Lab7_interface1.Form1.resources
+C:\Users\user\Downloads\Telegram Desktop\колледж\колледж\РПМ\Lab7_interface2\Lab7_interface1\obj\Debug\Lab7_interface1.Properties.Resources.resources
+C:\Users\user\Downloads\Telegram Desktop\колледж\колледж\РПМ\Lab7_interface2\Lab7_interface1\obj\Debug\Lab7_interface1.csproj.GenerateResource.cache
+C:\Users\user\Downloads\Telegram Desktop\колледж\колледж\РПМ\Lab7_interface2\Lab7_interface1\obj\Debug\Lab7_interface1.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Telegram Desktop\колледж\колледж\РПМ\Lab7_interface2\Lab7_interface1\obj\Debug\Lab7_interface1.exe
+C:\Users\user\Downloads\Telegram Desktop\колледж\колледж\РПМ\Lab7_interface2\Lab7_interface1\obj\Debug\Lab7_interface1.pdb
+C:\Users\user\Downloads\Telegram Desktop\колледж\колледж\РПМ\Lab7_interface2\Lab7_interface1\bin\Debug\Lab7_interface1.exe.config
+C:\Users\user\Downloads\Telegram Desktop\колледж\колледж\РПМ\Lab7_interface2\Lab7_interface1\bin\Debug\Lab7_interface1.exe
+C:\Users\user\Downloads\Telegram Desktop\колледж\колледж\РПМ\Lab7_interface2\Lab7_interface1\bin\Debug\Lab7_interface1.pdb

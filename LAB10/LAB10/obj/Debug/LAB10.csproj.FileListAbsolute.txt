@@ -1,0 +1,20 @@
+H:\РПМ\LAB10\LAB10\bin\Debug\LAB10.exe.config
+H:\РПМ\LAB10\LAB10\bin\Debug\LAB10.exe
+H:\РПМ\LAB10\LAB10\bin\Debug\LAB10.pdb
+H:\РПМ\LAB10\LAB10\obj\Debug\LAB10.csproj.AssemblyReference.cache
+H:\РПМ\LAB10\LAB10\obj\Debug\LAB10.Properties.Resources.resources
+H:\РПМ\LAB10\LAB10\obj\Debug\LAB10.csproj.GenerateResource.cache
+H:\РПМ\LAB10\LAB10\obj\Debug\LAB10.csproj.CoreCompileInputs.cache
+H:\РПМ\LAB10\LAB10\obj\Debug\LAB10.exe
+H:\РПМ\LAB10\LAB10\obj\Debug\LAB10.pdb
+H:\РПМ\LAB10\LAB10\obj\Debug\LAB10.Storehouse.resources
+C:\Users\user\Downloads\Telegram Desktop\колледж\колледж\РПМ\LAB10\LAB10\bin\Debug\LAB10.exe.config
+C:\Users\user\Downloads\Telegram Desktop\колледж\колледж\РПМ\LAB10\LAB10\bin\Debug\LAB10.exe
+C:\Users\user\Downloads\Telegram Desktop\колледж\колледж\РПМ\LAB10\LAB10\bin\Debug\LAB10.pdb
+C:\Users\user\Downloads\Telegram Desktop\колледж\колледж\РПМ\LAB10\LAB10\obj\Debug\LAB10.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\Telegram Desktop\колледж\колледж\РПМ\LAB10\LAB10\obj\Debug\LAB10.Storehouse.resources
+C:\Users\user\Downloads\Telegram Desktop\колледж\колледж\РПМ\LAB10\LAB10\obj\Debug\LAB10.Properties.Resources.resources
+C:\Users\user\Downloads\Telegram Desktop\колледж\колледж\РПМ\LAB10\LAB10\obj\Debug\LAB10.csproj.GenerateResource.cache
+C:\Users\user\Downloads\Telegram Desktop\колледж\колледж\РПМ\LAB10\LAB10\obj\Debug\LAB10.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Telegram Desktop\колледж\колледж\РПМ\LAB10\LAB10\obj\Debug\LAB10.exe
+C:\Users\user\Downloads\Telegram Desktop\колледж\колледж\РПМ\LAB10\LAB10\obj\Debug\LAB10.pdb

@@ -1,0 +1,20 @@
+C:\Users\user\Desktop\C# Лабы\LAB12\bin\Debug\LAB12.exe.config
+C:\Users\user\Desktop\C# Лабы\LAB12\bin\Debug\LAB12.exe
+C:\Users\user\Desktop\C# Лабы\LAB12\bin\Debug\LAB12.pdb
+C:\Users\user\Desktop\C# Лабы\LAB12\obj\Debug\LAB12.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C# Лабы\LAB12\obj\Debug\LAB12.TwoDefinitionMatrix.resources
+C:\Users\user\Desktop\C# Лабы\LAB12\obj\Debug\LAB12.Properties.Resources.resources
+C:\Users\user\Desktop\C# Лабы\LAB12\obj\Debug\LAB12.csproj.GenerateResource.cache
+C:\Users\user\Desktop\C# Лабы\LAB12\obj\Debug\LAB12.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Лабы\LAB12\obj\Debug\LAB12.exe
+C:\Users\user\Desktop\C# Лабы\LAB12\obj\Debug\LAB12.pdb
+H:\РПМ\LAB12\bin\Debug\LAB12.exe.config
+H:\РПМ\LAB12\bin\Debug\LAB12.exe
+H:\РПМ\LAB12\bin\Debug\LAB12.pdb
+H:\РПМ\LAB12\obj\Debug\LAB12.csproj.AssemblyReference.cache
+H:\РПМ\LAB12\obj\Debug\LAB12.TwoDefinitionMatrix.resources
+H:\РПМ\LAB12\obj\Debug\LAB12.Properties.Resources.resources
+H:\РПМ\LAB12\obj\Debug\LAB12.csproj.GenerateResource.cache
+H:\РПМ\LAB12\obj\Debug\LAB12.csproj.CoreCompileInputs.cache
+H:\РПМ\LAB12\obj\Debug\LAB12.exe
+H:\РПМ\LAB12\obj\Debug\LAB12.pdb
